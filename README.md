@@ -12,7 +12,7 @@ We show how models can reveal trade-offs, identify quantitative thresholds and p
 Conclusions:  
 Here we demonstrate the value dedicated modelling can provide for interdisciplinary groups of experts when developing TPPs and PPCs. These models could be used by product developers to prioritise and shape development decisions for new Wolbachia replacement products.  
 &nbsp; 
-#### File organisation  
+#### Contents  
 1. The spatial analyses of cost-effectiveness, authored by Oliver Brady in R, consist of:  
 - Supplementary_File_1.docx (cost of vector control systematic review summary)  
 - Wolbachia_TPP_map.R (master code)  
