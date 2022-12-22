@@ -14,9 +14,10 @@ Here we demonstrate the value dedicated modelling can provide for interdisciplin
 &nbsp; 
 #### File organisation  
 1. The spatial analyses of cost-effectiveness, authored by Oliver Brady in R, consist of:  
-- Wolbachia_TPP_map.R  
+- Supplementary_File_1.docx (cost of vector control systematic review summary)  
+- Wolbachia_TPP_map.R (master code)  
 - TTP_data (folder containing relevant data)  
 - TPP_outputs (folder containing figures 2 & 3, municipality-level summaries, rasters, and tables 2 & 3)     
 2. The population dynamics and release ratio analyses, authored by Katie Tiley in Python, consist of:  
-- Population_data (folder containing relevant data and code)  
+- Population_data (folder containing relevant data and code organised by figure)  
 - Population_figures (folder containing figures 1 & 4 - 6, and supplementary figures 1 - 6 denoted 'SFigure#')  
