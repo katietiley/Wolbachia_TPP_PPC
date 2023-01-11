@@ -23,6 +23,6 @@ Here we demonstrate the value dedicated modelling can provide for interdisciplin
 - Population_figures (folder containing Figures 1 & 4 - 6, and supplementary Figures 1 - 6 denoted 'SFigure#')  
 &nbsp;  
 &nbsp;  
-**Supplementary File 1** contains a cost of vector control systematic review summary.  
+**Supplementary File 1** contains a cost of vector control systematic review summary (author: OB).  
 &nbsp;  
-**Supplementary File 2** contains figures and tables of additional analyses.
+**Supplementary File 2** contains figures and tables of additional analyses (author: KT).  
