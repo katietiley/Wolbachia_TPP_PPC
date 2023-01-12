@@ -19,6 +19,6 @@ Here we demonstrate the value dedicated modelling can provide for interdisciplin
 - TPP_outputs (folder containing Figures 2 & 3, municipality-level summaries, rasters, and Tables 2 & 3)     
 2. The population dynamics and release ratio analyses, authored by Katie Tiley in Python, consist of:  
 - Population_data (folder containing relevant data and code organised by Figure)  
-- Population_figures (folder containing Figures 1 & 4 - 6, and supplementary Figures 1 - 6 denoted 'SFigure#')  
+- Population_figures (folder containing Figures 1 & 4 - 6)  
 3. **Supplementary_Materials folder** contains 'Supplementary File 1.docx', a cost of vector control systematic review summary (author: OB), and supplementary figures and tables (author: KT).  
 &nbsp;  
